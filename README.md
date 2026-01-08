@@ -1,5 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/vyasdeepti/count.svg)
-
 # Personal Protective Equipment (PPE) Object Detection using YOLOv11
 
 This project provides an advanced Personal Protective Equipment (PPE) detection system using the YOLOv11 deep learning architecture. The objective is to automate the process of identifying whether individuals in images or video streams are wearing essential PPE items such as helmets, vests, gloves, and masks. The system is designed for real-time applications and can be deployed in industrial, construction, healthcare, or any environment where safety compliance is critical.
